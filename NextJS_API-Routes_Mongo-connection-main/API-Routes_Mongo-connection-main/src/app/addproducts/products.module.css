@@ -1,0 +1,21 @@
+
+.formSection{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.formInp input{
+        width: 20rem;
+        height: 2rem;
+
+}
+.formBtn{
+    width: 10rem;
+    height: 2rem;
+    color: white;
+    background-color: rgb(18, 18, 146);
+    margin-top: 20px;
+}
